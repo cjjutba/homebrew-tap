@@ -1,6 +1,6 @@
 cask "kernel" do
-  version "0.5.0"
-  sha256 "d1e2d42f3db147d4fa61275799fefb938f50351b86a3172804dfe8a6759d3815"
+  version "0.6.0"
+  sha256 "b7f327db0caa6da9b0eb051b5496f7747de77406e481b0099605987840f6dd5b"
 
   url "https://github.com/cjjutba/kernel/releases/download/v#{version}/Kernel-arm64.dmg"
   name "Kernel"
